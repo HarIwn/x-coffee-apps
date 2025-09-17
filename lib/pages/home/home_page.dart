@@ -52,7 +52,7 @@ class HomePage extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // 🔹 AppBar Custom (Search + Notification)
+              // AppBar Custom (Search + Notification)
               Padding(
                 padding: const EdgeInsets.all(16),
                 child: Row(
@@ -87,7 +87,7 @@ class HomePage extends StatelessWidget {
                 ),
               ),
 
-              // 🔹 Card Profil
+              // Card Profil
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16),
                 child: Container(
@@ -163,7 +163,7 @@ class HomePage extends StatelessWidget {
 
               const SizedBox(height: 20),
 
-              // 🔹 Ads Banner
+              // Ads Banner
               Container(
                 margin: const EdgeInsets.symmetric(horizontal: 16),
                 height: 120,
@@ -181,7 +181,7 @@ class HomePage extends StatelessWidget {
 
               const SizedBox(height: 20),
 
-              // 🔹 Tab Kategori
+              // Tab Kategori
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16),
                 child: Row(
