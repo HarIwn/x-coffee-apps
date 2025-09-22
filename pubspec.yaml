@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   awesome_dialog: ^3.2.1
+  carousel_slider: ^5.1.1
   flutter:
     sdk: flutter
   http: ^1.5.0
@@ -27,3 +28,4 @@ flutter:
     - assets/images/
     - assets/images/icon/
     - assets/images/pattern/
+    - assets/images/product/
